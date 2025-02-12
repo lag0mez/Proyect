@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+img{
+    width: 750px;
+    height: 500px;
+}
+h1{
+    text-transform: uppercase;
+    color: white;
+}
+p{
+    color: white
+}
